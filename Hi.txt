@@ -1,1 +1,2 @@
-Hi Git
+Hi Git & GitHub
+NIBM GitHub Work Shop
