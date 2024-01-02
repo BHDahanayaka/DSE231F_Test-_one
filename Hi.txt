@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 Hi Git & GitHub
 NIBM GitHub Work Shop
 Globel life
+=======
+Hi Git
+dngmdfbgnbjgkbdfjkgbdfjkgbjkdfbgjxcjgbxcnvb cn bvb h jkjkh jk hui 
+>>>>>>> Stashed changes
